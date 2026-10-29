@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0 -->
 <script setup lang="ts">
 import { Five } from '@realsee/five';
 import { useFiveCurrentState } from '@realsee/five/vue';

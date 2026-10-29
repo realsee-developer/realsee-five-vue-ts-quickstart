@@ -19,5 +19,6 @@
     "typescript": "^5.0.2",
     "vite": "^4.3.2",
     "vue-tsc": "^1.4.2"
-  }
+  },
+  "license": "PolyForm-Noncommercial-1.0.0"
 }

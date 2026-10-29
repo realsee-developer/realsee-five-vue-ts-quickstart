@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0 -->
 <script setup lang="ts">
 import { FiveProvider } from '@realsee/five/vue';
 import work from '@realsee/open-works/virtual/81RojBlJQdVTglNNMr/work.json';
